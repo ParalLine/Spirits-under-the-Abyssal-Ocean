@@ -1,3 +1,9 @@
+# 最新消息
+
+最近会比较忙，进度暂缓，下次更新会在几个月后吧？
+
+Keeping busy recently. Next update will be delayed till January (Probably).
+
 # 背景框架
 
 这是关于女主雨宫美月成长的故事，以美月为主视角展开，描绘她与周围人的互动以及她自身的变化。
