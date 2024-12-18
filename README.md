@@ -1,6 +1,6 @@
 # 最新消息
 
-最近会比较忙，进度暂缓，下次更新会在几个月后吧？
+最近会比较忙，进度暂缓，下次更新会在几个月后吧？（顺便搞一下latex中文环境的set-up，下次应该会把pdf版也更新一下。）
 
 Keeping busy recently. Next update will be delayed till January (Probably).
 
