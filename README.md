@@ -1,8 +1,10 @@
 # 最新消息
 
-最近会比较忙，进度暂缓，下次更新会在几个月后吧？（顺便搞一下latex中文环境的set-up，下次应该会把pdf版也更新一下。）
+最近会比较忙，进度暂缓，下次更新会在几个月后吧？
 
 Keeping busy recently. Next update will be delayed till January (Probably).
+
+上传了latex编译后的pdf版，之后text版本仍会更新，但是应该会直接上传latex未编译的文本，所以text那部分就仅作text-compare用。阅读小说可以直接选用pdf。
 
 # 背景框架
 
